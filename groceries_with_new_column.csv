@@ -1,0 +1,26 @@
+,Product_ID,Product_ID_Num,Category,Sub_Category,Item,Organic,Price_Dollars,Inventory,Precent Inventory,Low Inventory,Last_Updated,Last_Updated_Time,New_Shipment_Date,Shipment_Date_DOW
+0,P100010,100010,Produce, Fruit,Apple,False,1.5,349,7.19,,2023-06-12 15:35:00,15:35:00,2023-06-16 00:00:00,Thursday
+1,P100011,100011,Produce, Fruit,Banana,False,0.4,500,10.29,,2023-06-12 18:30:00,18:30:00,2023-06-16 00:00:00,Thursday
+2,P100012,100012,Produce, Fruit,Grapes,False,4.0,200,4.12,,2023-06-12 17:22:00,17:22:00,2023-06-16 00:00:00,Thursday
+3,P100013,100013,Produce, Fruit,Grapefruit,False,0.99,50,1.03,,2023-06-12 16:29:00,16:29:00,2023-06-16 00:00:00,Thursday
+4,P100014,100014,Produce, Fruit,Organic Strawberries,True,3.99,148,3.05,,2023-06-12 18:10:00,18:10:00,2023-06-16 00:00:00,Thursday
+5,P100015,100015,Produce, Fruit,Watermelon,False,5.99,99,2.04,,2023-06-12 19:15:00,19:15:00,2023-06-16 00:00:00,Thursday
+6,P100016,100016,Produce, Vegetable,Cabbage,False,1.78,78,1.61,,2023-06-12 19:25:00,19:25:00,2023-06-16 00:00:00,Thursday
+7,P100017,100017,Produce, Vegetable,Carrots,False,2.0,200,4.12,,2023-06-12 18:05:00,18:05:00,2023-06-16 00:00:00,Thursday
+8,P100018,100018,Produce, Vegetable,Celery,False,1.99,50,1.03,,2023-06-12 16:42:00,16:42:00,2023-06-16 00:00:00,Thursday
+9,P100019,100019,Produce, Vegetable,Cucumber,False,0.99,230,4.74,,2023-06-12 17:47:00,17:47:00,2023-06-16 00:00:00,Thursday
+10,P100020,100020,Produce, Meat,Beef,False,8.99,145,2.99,,2023-06-13 07:00:00,07:00:00,2023-06-18 00:00:00,Saturday
+11,P100021,100021,Produce, Meat,Chicken (Organic),True,10.49,284,5.85,,2023-06-13 07:20:00,07:20:00,2023-06-18 00:00:00,Saturday
+12,P100022,100022,Produce, Meat,Turkey,False,7.99,188,3.87,,2023-06-13 07:32:00,07:32:00,2023-06-18 00:00:00,Saturday
+13,P100023,100023,Produce, Dairy,Butter,False,3.5,400,8.24,,2023-06-13 08:35:00,08:35:00,2023-06-18 00:00:00,Saturday
+14,P100024,100024,Produce, Dairy,Eggs,False,3.29,234,4.82,,2023-06-13 08:54:00,08:54:00,2023-06-18 00:00:00,Saturday
+15,P100025,100025,Produce, Dairy,Milk (Soy),False,4.49,32,0.66,Low Inventory,2023-06-13 08:37:00,08:37:00,2023-06-18 00:00:00,Saturday
+16,P100026,100026,Produce, Dairy,Yogurt,False,1.0,432,8.89,,2023-06-13 08:41:00,08:41:00,2023-06-18 00:00:00,Saturday
+17,P100027,100027,Pantry, Snacks,Apple Sauce - organic,False,1.5,27,0.56,Low Inventory,2023-06-10 12:02:00,12:02:00,2023-06-25 00:00:00,Saturday
+18,P100028,100028,Pantry, Snacks,Chips,False,2.5,365,7.51,,2023-06-10 12:12:00,12:12:00,2023-06-25 00:00:00,Saturday
+19,P100029,100029,Pantry, Snacks,Cookies (Oatmeal),False,5.39,340,7.0,,2023-06-10 12:24:00,12:24:00,2023-06-25 00:00:00,Saturday
+20,P100030,100030,Pantry, Snacks,Raisins,False,2.99,5,0.1,Low Inventory,2023-06-10 12:38:00,12:38:00,2023-06-25 00:00:00,Saturday
+21,P100031,100031,Frozen, Frozen Snacks,Chicken Nuggets,False,6.99,85,1.75,,2023-05-28 22:02:00,22:02:00,2023-06-29 00:00:00,Wednesday
+22,P100032,100032,Frozen, Frozen Snacks,Spinach Dip,False,4.96,76,1.56,,2023-05-28 22:05:00,22:05:00,2023-06-29 00:00:00,Wednesday
+23,P100033,100033,Frozen, Frozen Fruit,Frozen Blueberries,False,10.99,162,3.34,,2023-05-28 22:14:00,22:14:00,2023-06-29 00:00:00,Wednesday
+24,P100034,100034,Frozen, Frozen Fruit,Frozen Pineapple,False,7.96,178,3.66,,2023-05-28 22:11:00,22:11:00,2023-06-29 00:00:00,Wednesday
